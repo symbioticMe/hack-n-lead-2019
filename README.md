@@ -82,3 +82,4 @@ INTERPRETATION
 - Visualization feature importance from CatBoost and DecisionTree
 - Plotting distribution of most important features
 - 2D-distribution of highly interaction features
+- confirming / rejecting hypothesis about external data sources (+ CIP, - AML)
