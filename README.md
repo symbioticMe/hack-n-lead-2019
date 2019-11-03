@@ -46,9 +46,9 @@ log and norm transformations
 2: Other institution
 3: is_pep individual
 
-- Adding new features from external sources
-0: AML risk score and rank for countries
-1: Corruption index for countries
+- Adding new features from external sources   
+0: AML risk score and rank for countries   
+1: Corruption index for countries   
 
 
 +++
@@ -75,3 +75,10 @@ Steps:
 - cross-validation on training set; aim: optimize f1_micro score (detect minority class)
 - test with test set
 - evaluation: classification report, ROC
+
++++ 
+INTERPRETATION
+
+- Visualization feature importance from CatBoost and DecisionTree
+- Plotting distribution of most important features
+- 2D-distribution of highly interaction features
