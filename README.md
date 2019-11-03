@@ -18,10 +18,10 @@
 DATA SOURCES
 
 Data provided by CreditSuisse:
-> 'large.csv'  
-> 'small.csv'  
-> 'country.csv'  
-> 'jeopardy.csv'
+> 'large.csv' (http://bit.ly/36jCXYi)    
+> 'small.csv' (http://bit.ly/33kJboM)  
+> 'country.csv' (http://bit.ly/36nQ5f4)  
+> 'jeopardy.csv' (http://bit.ly/2NCgFZ8)
 
 Open source data: 
 1. Basel AML Index: independent annual ranking that assesses the risk of money laundering and terrorist financing around the world
