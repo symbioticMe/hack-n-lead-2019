@@ -60,6 +60,8 @@ general statistics
 
 visualize data
 
+test outlier detection method LOF
+
 +++
 MODELS
 
@@ -82,4 +84,5 @@ INTERPRETATION
 - Visualization feature importance from CatBoost and DecisionTree
 - Plotting distribution of most important features
 - 2D-distribution of highly interaction features
-- confirming / rejecting hypothesis about external data sources (+ CIP, - AML)
+- Confirming / rejecting hypothesis about external data sources (+ CIP, - AML)
+- Usual outlier detection method (LOF) is not suitable to detect suspicious behaviour
