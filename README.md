@@ -5,7 +5,8 @@
 ## Repository structure
 
 - clean_code: notebooks with the final code producing important results
-- notebooks: notebooks which are not included in final result
+- notebooks: exploritary notebooks which are not included in final result
+- laundrywomen_presentation: our pitch presentation
 
 ===
 
