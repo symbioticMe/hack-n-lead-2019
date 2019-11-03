@@ -70,8 +70,8 @@ CatBoost
 SVM
 
 Steps:
-0: train-test split
-1: upsampling of minority class in training set
-2: cross-validation on training set; aim: optimize f1_micro score (detect minority class)
-3: test with test set
-4: evaluation: classification report, ROC
+- train-test split
+- upsampling of minority class in training set
+- cross-validation on training set; aim: optimize f1_micro score (detect minority class)
+- test with test set
+- evaluation: classification report, ROC
