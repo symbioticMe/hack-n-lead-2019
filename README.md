@@ -1,5 +1,6 @@
 # [Hack n Lead 2019](https://womenplusplus.ch/hacknlead)
 
+Our team chose the project from Credit Suisse, and developed a machine learning tool identifying clients that are likely to be involved in money laundry activities and to tell them apart from good clients.
 ===
 
 ## Repository structure
